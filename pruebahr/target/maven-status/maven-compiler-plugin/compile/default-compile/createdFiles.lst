@@ -1,0 +1,12 @@
+pruebahr\bd\Conector.class
+hbm\Countries.class
+pruebahr\test\Prueba.class
+hbm\JobHistoryId.class
+hbm\Employees.class
+hbmtest\TestMapeo.class
+hbm\Regions.class
+hbm\HibernateUtil.class
+hbm\Departments.class
+hbm\Locations.class
+hbm\JobHistory.class
+hbm\Jobs.class
